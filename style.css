@@ -1,0 +1,24 @@
+body{
+    background-size: cover;
+}
+.hone{
+    font-size:larger;
+    border-radius: 0%;
+    margin:0;
+    font-family: 'Times New Roman', Times, serif;
+    width:100%;
+}
+.footer{
+    width:100%;
+    position:fixed;
+    bottom:0;
+    color:mediumblue;
+    line-height:3;
+    background-color: grey;
+    text-align: center;
+}
+canvas{
+    border: magenta 5px ridge;
+    border-radius:5mm;
+    margin-top: 78px;
+}
